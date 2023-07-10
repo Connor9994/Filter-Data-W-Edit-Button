@@ -1,1 +1,0 @@
-CreateObject("Wscript.Shell").Run ".\Files\TANYR.bat", 0, True
