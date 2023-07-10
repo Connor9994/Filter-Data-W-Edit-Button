@@ -1,5 +1,4 @@
 # Filter-Data-W-Edit-Button
-TANYR Internal Program to Sort Workflow Excel Sheets
 
 SEE "Instructions" Folder for PDF examples
 
